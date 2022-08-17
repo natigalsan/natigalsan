@@ -6,7 +6,6 @@
 
 ```js
 const Nati_GS = {
-  pronouns: "she" | "her",
   Code Frontend: [HTML, CSS, JavaScript, React.js, Bootstrap],
   Code Backend: [Python],
   Database: [MySQL],
