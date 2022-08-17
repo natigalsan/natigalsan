@@ -1,5 +1,6 @@
-### <Hola, muy buenas, soy Nati!/> 👋
+### Hola, muy buenas, soy Nati y ahí vamos...
 
+<It's Time to Code!/> 👋
 
 ![imagen de pantalla1](https://user-images.githubusercontent.com/99444878/185122362-cc55256c-2244-400e-b381-0637587826c0.jpg)
 
