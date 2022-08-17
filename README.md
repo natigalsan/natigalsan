@@ -1,8 +1,7 @@
-### <Hola, muy buenas, soy NatividadG!/> 👋
+### <Hola, muy buenas, soy Nati!/> 👋
 
 
-
-                ![imagen de pantalla1](https://user-images.githubusercontent.com/99444878/185122362-cc55256c-2244-400e-b381-0637587826c0.jpg)
+![imagen de pantalla1](https://user-images.githubusercontent.com/99444878/185122362-cc55256c-2244-400e-b381-0637587826c0.jpg)
 
 ```js
 const Nati_GS = {
