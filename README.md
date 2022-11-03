@@ -6,12 +6,11 @@
 
 ```js
 const Nati_GS = {
-  Code Frontend: [HTML, CSS, JavaScript, React.js, Bootstrap],
-  Code Backend: [Python],
+  Code Frontend: [HTML, CSS, JavaScript, React.js, Bootstrap, AngularJS],
+  Code Backend: [Python, Flask],
   Database: [MySQL],
-  Framework: [Flask],
   Software: [Figma, API Postman],
-  In progress: [Angular, JAVA]
+  In progress: [JAVA]
 }
 ```
 
